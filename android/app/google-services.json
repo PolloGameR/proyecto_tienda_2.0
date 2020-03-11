@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052887241920",
+    "firebase_url": "https://redcasttlestore-8c256.firebaseio.com",
+    "project_id": "redcasttlestore-8c256",
+    "storage_bucket": "redcasttlestore-8c256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052887241920:android:4ac15df63782574b9d8925",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052887241920-0rqboki4eidhbbtti28o8vr3u3986aba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_tienda",
+            "certificate_hash": "f9faba461e5e0c288d3da9d2ccc074d019576420"
+          }
+        },
+        {
+          "client_id": "1052887241920-sfhp0qqc7169dejn22stjo2b64ji8fmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD79krkN64xMrNz_6mCsP8QmTJ_HI287LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052887241920-sfhp0qqc7169dejn22stjo2b64ji8fmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
